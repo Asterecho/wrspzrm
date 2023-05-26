@@ -1,0 +1,10 @@
+C:\Users\ifwz\Desktop\pytosp\pytosp\bin\Debug\pytosp.exe.config
+C:\Users\ifwz\Desktop\pytosp\pytosp\bin\Debug\pytosp.exe
+C:\Users\ifwz\Desktop\pytosp\pytosp\bin\Debug\pytosp.pdb
+C:\Users\ifwz\Desktop\pytosp\pytosp\obj\Debug\pytosp.csprojResolveAssemblyReference.cache
+C:\Users\ifwz\Desktop\pytosp\pytosp\obj\Debug\pytosp.exe
+C:\Users\ifwz\Desktop\pytosp\pytosp\obj\Debug\pytosp.pdb
+C:\Users\ifwz\Desktop\pytosp\pytosp\bin\Debug\ChnCharInfo.dll
+C:\Users\ifwz\Desktop\pytosp\pytosp\bin\Debug\NPinyin.dll
+C:\Users\ifwz\Desktop\pytosp\pytosp\obj\Debug\pytosp.MainForm.resources
+C:\Users\ifwz\Desktop\pytosp\pytosp\obj\Debug\pytosp.csproj.GenerateResource.Cache
